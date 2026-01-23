@@ -9,7 +9,7 @@ html {
 }
 
 .page {
-  display: grid;
+  display: flex;
   justify-content: center;
   align-content: center;
   inline-size: 1200px;
