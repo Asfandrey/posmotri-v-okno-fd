@@ -176,10 +176,7 @@ ol {
   gap: 30px;
   height: 298px;
   overflow: auto;
-}
-
-.content__list-container:last-child {
-  /*padding: 3px;*/
+  padding: 2px;
 }
 
 .content__list {
@@ -295,7 +292,7 @@ ol {
 
 .button:focus-visible {
   outline: 1px solid #fff;
-  outline-offset: 2px;
+  outline-offset: 1px;
 }
 
 .button:hover {
